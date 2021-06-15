@@ -77,8 +77,8 @@ $config = [
 //            'transport' => [
 //                'class' => 'Swift_SmtpTransport',
 //                'host' => 'smtp.gmail.com',
-//                'username' => 'sabina.jangirova@nu.edu.kz',
-//                'password' => 'iloveme889',
+//                'username' => '',
+//                'password' => '',
 //                'port' => '587',
 //                'encryption' => 'tls',
 //            ],
